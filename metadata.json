@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Tender & e-Procurement HKBP",
+  "description": "Sistem Informasi Tender & e-Procurement Renovasi Rumah Hunian Pendeta Gereja HKBP Jatiwaringin dengan database realtime Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
